@@ -1,3 +1,11 @@
+Description:
+
+GUI application that allows user to read, write, and play music.
+
+Music can be loaded from text files
+
+Supports various instruments
+
 Instructions:
 
 Select a new space with middle click
